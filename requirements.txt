@@ -1,0 +1,10 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core>=0.3.60,<1.0.0
+langchain-huggingface==0.1.2
+langchain-chroma==0.2.4
+chromadb==0.6.3
+sentence-transformers==3.4.1
+transformers>=4.40.0
+torch
+accelerate
